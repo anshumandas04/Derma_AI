@@ -162,7 +162,7 @@ Please read `CONTRIBUTING.md` before submitting pull requests. All contributions
 
 ## 📜 License
 
-This project is licensed under the **MIT License** (or as specified in the repo).
+This project is licensed under the **MIT License** (as specified in the repo).
 
 ---
 
@@ -176,7 +176,7 @@ This project is licensed under the **MIT License** (or as specified in the repo)
 
 ## 📬 Questions or Feedback?
 
-Feel free to [open an issue](https://github.com/yourusername/Derma_AI/issues) or contact the maintainers directly.
+Feel free to [open an issue](https://github.com/anshumandas04/Derma_AI/issues) or contact the maintainers directly.
 
 ---
 
